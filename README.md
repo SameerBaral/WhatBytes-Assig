@@ -3,7 +3,7 @@
 A high-fidelity, responsive e-commerce web application built using **Next.js (App Router)** and **Tailwind CSS**. This project replicates the mockup layout, styling specifications, client-side cart logic, and filters required for the frontend assignment.
 
 ## Live Deployment
-- **Deployment URL**: `(https://what-bytes-assig.vercel.app/)`
+- **Deployment URL**: [https://what-bytes-assig.vercel.app/](https://what-bytes-assig.vercel.app/)
 
 ---
 
